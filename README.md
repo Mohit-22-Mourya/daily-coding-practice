@@ -7,3 +7,4 @@
 
 ### October 04, 2026
 - Maintained daily GitHub activity.
+- Practiced Arrays
