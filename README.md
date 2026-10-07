@@ -5,22 +5,26 @@
 - Revised Data Structures.
 - Learned something new about Git.
 
-# 🚀 Daily Journey & Contributions
+## ♟️ Interzone Chess Tournament — 4–6 October 2026
 
-## 📅 October 04, 2026 — Journey to Durg 🚆
+### 📅 4 October
 
-- 🚆 Travelled to Durg via Intercity Express.
-- 🏫 Arrived at Polytechnic College, Durg.
-- 🌙 Stayed overnight at the college for the upcoming tournament.
-- ♟️ Got ready for the Inter-Zone Chess Tournament!
+* Travelled from **Bilaspur to Durg by Intercity Express**.
+* Reached **Polytechnic College, Durg** and settled in for the tournament.
+* Team event began with the first rounds.
 
-> New city, new experiences, and a new challenge. Every journey has a story!
+### 📅 5 October
 
-## 📅 October 05, 2026 — Let the Games Begin! ♟️
+* Played **3 rounds**: **2 wins + 1 draw**.
+* Scored **2.5/3** and helped our team reach **1st table**.
+* Went into the final day needing **3 points for individual National selection**.
 
-- 🌅 Started the morning at Polytechnic College, Durg.
-- 🏆 Scheduled to participate in the Inter-Zone Chess Tournament.
-- 🧠 Ready to test my strategic thinking, patience, and skills.
-- 🎯 Goal: Give my best, learn, and enjoy every moment.
+### 📅 6 October
 
-> Think smart, play bold, and make every move count! 🔥
+* Lost the remaining **2 rounds** and unfortunately couldn't clear the individual cutoff.
+* **3 teammates cleared the cutoff**, with **2 selected for Nationals**. 🇮🇳
+* Our college team secured the **maximum team points and won the overall trophy! 🏆**
+* Returned from **Durg to Bilaspur by Betwa Express** and reached home at night.
+* Ended the journey by showing some **card tricks to my teammates**. 🃏
+
+> **Individual result: Hard luck. Team result: Champions. 🏆♟️**
