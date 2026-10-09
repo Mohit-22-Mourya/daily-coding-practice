@@ -39,3 +39,13 @@
 * **Next target: Complete TOC and finish the remaining GATE classes.** 🎯
 
 > **Backlogs cleared. GATE preparation continues. 🚀**
+
+## 📅 8 October 2026 — Rojgaar Mela, Raipur
+
+* Travelled from **GEC Koni, Bilaspur, to Indore Stadium, Raipur**, to attend the Rojgaar Mela.
+* Explored career opportunities and applied to multiple companies, including **Vijeta Enterprises, The Indian Express, and AISECT**.
+* Applied for various roles, including **Supervisor, Branch Manager, Sales Promoter, and Team Leader**.
+* Returned to Bilaspur by bus in the evening, enjoying the journey with friends.
+* Made the return trip memorable with lots of fun, dancing, laughter, and unforgettable moments.
+
+**Key Takeaway:** A productive day of exploring job opportunities, combined with an entertaining journey back with friends. 🎯🚌💃
