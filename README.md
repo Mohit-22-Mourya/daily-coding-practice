@@ -68,4 +68,4 @@
 - Prepared the **budget for the Raipur tournament** to be submitted to **Navin Sir, our Sports Officer, on Monday at college**.
 - Focused on polishing the project while completing an important sports-related responsibility.
 
-> **Frontend refinement and tournament budget preparation — one step at a time. 🩺♟️**
+
