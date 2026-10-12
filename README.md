@@ -69,3 +69,13 @@
 - Focused on polishing the project while completing an important sports-related responsibility.
 
 > **Frontend refinement and tournament budget preparation — one step at a time. 🩺♟️**
+
+## 💻 October 11, 2026 — AyuMarg, ML Assignment & Aptitude
+
+- Completed my **Machine Learning (ML) assignment**. ✅
+- Attended and studied through **Aptitude lectures** to strengthen my problem-solving skills for competitive exams.
+- Worked on making the **AyuMarg major project fully responsive across all screen sizes**, including desktops, laptops, tablets, and mobile devices.
+- Improved the frontend responsiveness to ensure a smoother and more consistent user experience across different devices.
+- Continued balancing academic assignments, aptitude preparation, and major project development.
+
+> **ML assignment completed, aptitude preparation continued, and AyuMarg moving toward a fully responsive UI. 🩺💻🚀**
