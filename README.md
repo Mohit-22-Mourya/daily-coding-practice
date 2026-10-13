@@ -79,3 +79,12 @@
 - Continued balancing academic assignments, aptitude preparation, and major project development.
 
 > **ML assignment completed, aptitude preparation continued, and AyuMarg moving toward a fully responsive UI. 🩺💻🚀**
+
+## 📚 October 12, 2026 — Aptitude Preparation & College
+
+- Watched **Aptitude lectures** to continue preparing for competitive exams.
+- Visited college after many days and attended to college-related work.
+- Returned home feeling unwell due to a **cold (sardi)**.
+- Took some rest and focused on recovering while keeping up with my learning routine.
+
+> **Back to college after many days, continued aptitude preparation, and taking time to recover. 📚💻🤧**
