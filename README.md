@@ -78,3 +78,4 @@
 - Improved the frontend responsiveness to ensure a smoother and more consistent user experience across different devices.
 - Continued balancing academic assignments, aptitude preparation, and major project development.
 
+> **ML assignment completed, aptitude preparation continued, and AyuMarg moving toward a fully responsive UI. 🩺💻🚀**
