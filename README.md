@@ -236,3 +236,20 @@
 - Complete and submit the Cyber Security assignment.
 - Continue with the ongoing **GATE CS preparation** and regular study routine.
 - Take proper rest and recover fully before getting back to a more productive study schedule.
+
+## 📚 October 14, 2026 — College, Assignments & Aptitude
+
+- Woke up in the morning and got the required printouts ready before heading to college.
+- Submitted and got my **Cyber Security assignment** checked during the first class.
+- Went to grab a samosa during the IWT class because I was feeling hungry. 😄
+- Attended the **Machine Learning (ML) class** after returning.
+- Submitted my **Post-Matric Scholarship documents** after getting them verified by my class teacher, Prince Sir, at the Students Section.
+- Returned home, had lunch, and took some rest due to a cold. 🤧
+- Continued recovering while trying to manage my studies, although my productivity has been a little low lately.
+- Completed **one Aptitude lecture** in the evening.
+- Planned to work on the **E-Commerce (ECOM) assignment** before wrapping up the day.
+
+### 🎯 Pending Tasks
+- Complete the E-Commerce assignment.
+- Get back on track with regular studying and aptitude preparation.
+- Take proper rest and recover from the cold.
