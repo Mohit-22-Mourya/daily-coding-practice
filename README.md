@@ -253,3 +253,8 @@
 - Complete the E-Commerce assignment.
 - Get back on track with regular studying and aptitude preparation.
 - Take proper rest and recover from the cold.
+
+### 🎯 Pending Tasks
+- Complete the E-Commerce assignment.
+- Get back on track with regular studying and aptitude preparation.
+- Take proper rest and recover from the cold.
