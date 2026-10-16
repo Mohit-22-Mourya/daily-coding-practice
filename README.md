@@ -1,4 +1,4 @@
-# daily-coding-practice
+# daily-life-work
 
 ## October 03, 2026
 - Practiced JavaScript concepts.
